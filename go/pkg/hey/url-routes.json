@@ -328,7 +328,7 @@
       }
     },
     {
-      "pattern": "/topics/{topicId}/messages",
+      "pattern": "/topics/{topicId}/entries",
       "resource": "Messages",
       "operations": {
         "POST": "CreateTopicMessage"

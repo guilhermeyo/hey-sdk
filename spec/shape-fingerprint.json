@@ -2,9 +2,6 @@
   "CompleteCalendarTodo": "3a6804f346bb5301f410dac434453eddee1569b54e1f7dd4413b8a0d23c270b2",
   "CompleteHabit": "9bb7a50c07c31309731cb6ae3289aab6c496d65b4458c13ac535ba6919e69bc5",
   "CreateCalendarTodo": "3e3226f5123ba16c946207e7c94c4eb179a6dfeaa4f3329b54ffeda0c7b8e585",
-  "CreateMessage": "3a939511acffdc00176b8bbf7db2e21043302e7ae9429e74adf3569be9018864",
-  "CreateReply": "a823551d160812cd8f2b4ff69adede51ebe605e3879cd03cfd4c88c72a3f1d00",
-  "CreateTopicMessage": "7d2f1427796ce193c35f606af9bfe27ab85c5b4b3cd204b60e8d8924f86ae9be",
   "GetAsidebox": "675d22b32c429ae536d4a4248a0c0c30d62adca2852fbb1d0defb12b7563521f",
   "GetBox": "373b5de0c686345126ca4da129f6991776936ecc1fa1e00fae00cd45cb6436e9",
   "GetBubblebox": "b736b44d157cb75c0e50a75feb2be37c8f9988024aa8c6503ab7bde347560cce",
@@ -33,6 +30,5 @@
   "StartTimeTrack": "631c6e31e91d56c667db4f53df609e0006de3787de580f1f52366f8da283ec91",
   "UncompleteCalendarTodo": "2034f18325d4021bdf67313966275d25c100b11e77bcacfbcddfd3f2ab551783",
   "UncompleteHabit": "d6cbfd918a4f869bf812a29ebc40aeeb203fe88736c424701274b15c94041c43",
-  "UpdateJournalEntry": "c28bc6186595cfc9bb61c3e90f3735fb90e50c81a78a60e45c08189713db9004",
   "UpdateTimeTrack": "eb9135887276c0f3262eb6b4c74c5f9a533499d66d9b10d5965f791850fc496b"
 }
